@@ -4,7 +4,7 @@ const Navbar = () => {
       <div className="max-w-5xl mx-auto flex justify-between items-center">
         <span className="text-white font-semibold text-xl">Mouli</span>
         <div className="space-x-8 text-gray-300">
-          <a href="#about" className="hover:text-white transition">About</a>
+          <a href="#about" className="hover:text-gray-400 transition">About</a>
           <a href="#projects" className="hover:text-white transition">Projects</a>
           <a href="#experience" className="hover:text-white transition">Experience</a>
           <a href="#contact" className="hover:text-white transition">Contact</a>

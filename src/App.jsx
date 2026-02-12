@@ -1,10 +1,11 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Engineering from "./components/Engineering";
+import Engineering from "./components/About";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import About from "./components/About";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Experience />
       <Contact />
       <Footer />
+      <About />
     </>
   );
 }

@@ -1,6 +1,6 @@
 const Engineering = () => {
   return (
-    <section className="bg-black text-white px-6 py-32 relative overflow-hidden">
+    <section id="about" className="bg-black text-white px-6 py-32 relative overflow-hidden">
       
       {/* Subtle background pattern */}
       <div className="absolute inset-0 opacity-5 bg-[radial-gradient(circle_at_center,_#777_1px,_transparent_1px)] bg-[size:50px_50px]" />
